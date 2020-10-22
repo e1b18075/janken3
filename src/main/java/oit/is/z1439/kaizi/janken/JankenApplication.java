@@ -1,4 +1,4 @@
-package oit.is.z18075.kaizi.janken;
+package oit.is.z1439.kaizi.janken;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
